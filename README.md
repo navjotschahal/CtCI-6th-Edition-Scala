@@ -14,7 +14,7 @@ For windows use Scala Installer
 For Linux follow the latest install instruction | Recommended follow the curl command which uses/downloads coursier script.
 
 ## All Education/Learning related Source code directory
-All Solution / Coding Question Source code resides under src/main/scala directory .
+All Solution / Coding Question Source code resides under `src/main/scala` directory .
 
 
 
@@ -35,7 +35,7 @@ For more information on the sbt-dotty plugin, see the
 
 ## 1.
 cd to the solution.scala file of any coding question.
-execute scala file_name.scala to run it. 
+execute `scala file_name.scala` to run it. 
 
 ## 2.
 In VS code install scala-metals extension .
