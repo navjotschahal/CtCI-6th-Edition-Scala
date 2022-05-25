@@ -1,5 +1,7 @@
 # CtCI-6th-Edition-Scala
 This repository is an effort to contribute solutions in Scala for the coding-problems in the book "CRACKING the CODING INTERVIEW" by Gayle Laakmann McDowell
+Reference to the Books Web-site for all details about the book and Author  :)
+https://www.crackingthecodinginterview.com
 
 
 ## Pre-requisites
@@ -10,6 +12,11 @@ Follow the scala install guide or got to https://www.scala-lang.org/download/
 Recommended use coursier install scripts for MacOS either brew or curl as suitable to you .
 For windows use Scala Installer
 For Linux follow the latest install instruction | Recommended follow the curl command which uses/downloads coursier script.
+
+## All Education/Learning related Source code directory
+All Solution / Coding Question Source code resides under src/main/scala directory .
+
+
 
 ## Note
 Coursier will automatically install scala, scalafmt, REPL's, scala-compiler etc. even JDK on your system.
